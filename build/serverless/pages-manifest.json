@@ -1,0 +1,9 @@
+{
+  "/about": "pages/about.js",
+  "/categories": "pages/categories.js",
+  "/category/[name]": "pages/category/[name].js",
+  "/contact": "pages/contact.js",
+  "/": "pages/index.js",
+  "/product/[name]": "pages/product/[name].js",
+  "/_error": "pages/_error.js"
+}
